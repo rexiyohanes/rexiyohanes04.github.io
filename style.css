@@ -1,0 +1,57 @@
+.jumbotron { 
+    padding: 2rem;
+}
+
+.nav-link {
+    color: white;
+
+}
+
+#about {
+    background-color: #0d6efd;
+    margin-top: -1px;
+    padding: 10rem;
+    color: white;
+}
+
+#exp {
+    background-color: #0d6efd;
+    margin-top: -1px;
+    padding: 10rem;
+    color: white;
+}
+
+.timeline-item {
+    margin-top: 20px;
+    border-left: 3px solid white;
+    padding-left: 20px;
+}
+
+#skills {
+    margin: 20px;
+}
+
+#contact {
+    background-color: #0d6efd;
+    margin-top: -1px;
+    padding: 2rem;
+}
+
+footer {
+    font-size: 20px;
+    list-style-type: none;
+    padding: 2rem;
+    background-color: #17A2BD;
+    height: 100px;
+}
+
+/* footer ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    list-style-type: none;
+}
+
+footer ul li {
+    padding: 15px;
+} */
